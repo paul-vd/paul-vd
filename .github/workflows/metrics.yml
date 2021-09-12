@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: paulpcio/metrics@latest
+      - uses: PaulPCIO/paulpcio@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
