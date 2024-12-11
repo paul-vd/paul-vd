@@ -1,4 +1,4 @@
-CCCCC<p align="center">
+<p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vandyk.fr/api?username=paul-vd&show_icons=true&count_private=true&theme=one_dark_pro&hide=stars&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vandyk.fr/api/top-langs/?username=paul-vd&layout=compact&hide_border=true&theme=one_dark_pro&bg_color=00000000&langs_count=6">
   <br>
